@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oumaymaboutaleb
-- 👀 I’m interested in devops and cloud 
-- 🌱 I’m currently learning azure fundamentals 
+- 👀 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
